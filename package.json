@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://AhmedMustafa249.github.io/AhmedCodeSpaces",
+    "build-gh": "parcel build --public-url 'https://AhmedMustafa249.github.io/AhmedCodeSpaces'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
